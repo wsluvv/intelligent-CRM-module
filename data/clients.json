@@ -1,0 +1,36 @@
+[
+  {
+    "client_id": "G-001",
+    "full_name": "Домбровський Владислав",
+    "phone": "+380671112233",
+    "email": "guest@example.com",
+    "telegram_chat_id": "123456789",
+    "vip": true,
+    "blacklisted": false,
+    "consent_to_marketing": true,
+    "preferences": ["тихий номер", "кава зранку", "пізній виїзд"],
+    "complaints_count": 1,
+    "average_rating": 4.5,
+    "last_seen_at": "2026-04-21T11:00:00",
+    "bookings": [
+      {
+        "booking_id": "B-501",
+        "room_type": "Deluxe",
+        "check_in": "2026-04-20T14:00:00",
+        "check_out": "2026-04-23T12:00:00",
+        "status": "Виїхав",
+        "total_amount": 7800,
+        "paid_amount": 7800
+      },
+      {
+        "booking_id": "B-777",
+        "room_type": "Suite",
+        "check_in": "2026-06-02T14:00:00",
+        "check_out": "2026-06-05T12:00:00",
+        "status": "Підтверджено",
+        "total_amount": 16200,
+        "paid_amount": 8200
+      }
+    ]
+  }
+]
